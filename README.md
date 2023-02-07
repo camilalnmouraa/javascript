@@ -11,8 +11,8 @@
 - [x] Iniciando com Javascript
 - [x] Mais um pouco sobre a linguagem
 - [x] Abrindo a mente com HTML e CSS
-- Operadores matemáticos
-- Operadores de comparação
+- [x] Operadores matemáticos
+- [x] Operadores de comparação
 - Funções 
 - Controle de fluxos com BDD
 - Arrays
