@@ -1,0 +1,30 @@
+# Lógica de Programação em JavaScript
+
+[![programando](https://media0.giphy.com/media/2juvZoQ3oLa4U/giphy.gif?cid=ecf05e47tfvj343n1lofdmfnkpqg5yvyhrx0ghvw2ayh96qk&rid=giphy.gif&ct=g)](https://giphy.com/)
+
+
+<br>
+
+> O que você vai ver por aqui:
+<br>
+
+- [x] Iniciando com Javascript
+- [x] Mais um pouco sobre a linguagem
+- [x] Abrindo a mente com HTML e CSS
+- Operadores matemáticos
+- Operadores de comparação
+- Funções 
+- Controle de fluxos com BDD
+- Arrays
+- Controles de repetição
+- Objetos (Super Variáveis) 
+- Constantes
+- Vuejs sem rodeios
+- Renderizando items com v-for 
+- Implementando funções
+- Criando um filtro de busca
+- Simulando a exclusão
+- Aplicando o tema Star Wars
+- Google Icons
+- Google Fonts 
+- Conclusão
