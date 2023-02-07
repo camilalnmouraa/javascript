@@ -28,30 +28,44 @@ document.getElementById('user-Name').innerHTML = userName
 
 // Operadores de Comparação //
 
-var v1 = 5
-var v2 = 5
+//var v1 = 5
+//var v2 = 5
 
 //Igual (==)
-var resultado = v1 == v2
-console.log(resultado)
+//var resultado = v1 == v2
+//console.log(resultado)
 
 //Diferente(!=)
-var resultado = v1 != v2
-console.log(resultado)
+//var resultado = v1 != v2
+//console.log(resultado)
 
 //Igual valor e tipo (===)
-var resultado = v1 === v2
-console.log(resultado)
+//var resultado = v1 === v2
+//console.log(resultado)
 
 //Maior que (>)
-var resultado = v1 > v2
-console.log(resultado)
+//var resultado = v1 > v2
+//console.log(resultado)
 
 //Maior ou igual que (>=)
-var resultado = v1 >= v2
-console.log(resultado)
+//var resultado = v1 >= v2
+//console.log(resultado)
 
 //Menor ou igual que (<=)
-var resultado = v1 <= v2
-console.log(resultado)
+//var resultado = v1 <= v2
+//console.log(resultado)
 
+// Funções //
+
+//function boasVindas(nome) {
+//    alert( nome + ', seja Bem Vindo(a)!')
+//}
+
+//boasVindas('Camila')
+
+//function soma(n1, n2) {
+//    return n1 + n2
+//}
+
+//var resultado = soma(5, 10)
+//console.log(resultado)
