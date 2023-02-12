@@ -14,7 +14,7 @@
 - [x] Operadores matemáticos
 - [x] Operadores de comparação
 - [x] Funções 
-- Controle de fluxos com BDD
+- [x] Controle de fluxos com BDD
 - Arrays
 - Controles de repetição
 - Objetos (Super Variáveis) 
