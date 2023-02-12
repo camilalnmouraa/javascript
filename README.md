@@ -17,7 +17,7 @@
 - [x] Controle de fluxos com BDD
 - [x] Arrays
 - [x] Controles de repetição
-- Objetos (Super Variáveis) 
+- [x] Objetos (Super Variáveis) 
 - Constantes
 - Vuejs sem rodeios
 - Renderizando items com v-for 
