@@ -16,7 +16,7 @@
 - [x] Funções 
 - [x] Controle de fluxos com BDD
 - [x] Arrays
-- Controles de repetição
+- [x] Controles de repetição
 - Objetos (Super Variáveis) 
 - Constantes
 - Vuejs sem rodeios
